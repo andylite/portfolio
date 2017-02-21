@@ -1,2 +1,2 @@
 # portfolio
-This is a portfolio of Andrii Lytvynenko's translation and technical writing 
+This portfolio contains samples of some of Andrii Lytvynenko's technical writing and translation projects  
